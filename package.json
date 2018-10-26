@@ -1,0 +1,36 @@
+{
+  "name": "bs4starterpack",
+  "version": "1.0.0",
+  "description": "Bootstrap Starter Pack to create elegant and beautiful themes",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravigohel/bs4starterpack.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "gulp",
+    "sass",
+    "themes"
+  ],
+  "author": "raviraj.gohel@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ravigohel/bs4starterpack/issues"
+  },
+  "homepage": "https://github.com/ravigohel/bs4starterpack#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.4"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.2"
+  }
+}
